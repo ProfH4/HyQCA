@@ -57,9 +57,9 @@ MIT.
 
 ## Kontakt & Mitarbeit
 
-* Bug/Feature: Bitte über **Issues**
-* Vorschläge/Design-Diskussionen: **Discussions** (falls aktiviert)
-* Pull Requests sind willkommen (siehe `CONTRIBUTING.md` sobald vorhanden)
+* Bug/Feature: Bitte über (https://www.hs-heilbronn.de/de/javier.villalba-diez)
+* Vorschläge/Design-Diskussionen: **Discussions**
+* Pull Requests sind willkommen
 
 ---
 
