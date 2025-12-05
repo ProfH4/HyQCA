@@ -3,8 +3,6 @@
 
 HyQCA-Health entwickelt ein **schlankes, modulares Framework**, das **klassische Deep-Learning-Vorverarbeitung** und **variationale Quantenalgorithmen** für eine **klinisch validierte Biosignalanalyse** zusammenführt.
 
-> Laufzeit (24 Monate | **01.01.2026–31.12.2027**)
-
 **Keywords:** Hybride Rechenarchitekturen · Biosignalanalyse · Quanten-variationale Algorithmen · Graphen-basierte Sensorsysteme · Wissenschaftlicher Nachwuchs
 
 ---
