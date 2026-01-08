@@ -47,6 +47,12 @@ Wenn du dieses Projekt nutzt, zitiere bitte das Repository (und die zugehörigen
 
 ---
 
+## Publikationen
+
+### 1. Villalba-Díez, J., Ordieres-Meré, J. Triangulated relativistic quantum computation: a curvature-modulated unification of quantum and relativistic computing. Quantum Stud.: Math. Found. 13, 2 (2026). https://doi.org/10.1007/s40509-025-00376-5
+
+---
+
 ## Lizenz
 
 MIT.
