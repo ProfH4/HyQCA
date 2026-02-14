@@ -51,6 +51,8 @@ Wenn du dieses Projekt nutzt, zitiere bitte das Repository (und die zugehörigen
 
 ### 1. Villalba-Díez, J., Ordieres-Meré, J. Triangulated relativistic quantum computation: a curvature-modulated unification of quantum and relativistic computing. Quantum Stud.: Math. Found. 13, 2 (2026). https://doi.org/10.1007/s40509-025-00376-5
 
+### 2. Villalba-Díez, J., González-Marcos, A. (2026) Relativistic triangle–curvature computing for federated HIV-1 protein-sequence monitoring. Sci Rep 16, 2957. https://doi.org/10.1038/s41598-025-32889-9
+
 ---
 
 ## Lizenz
