@@ -33,7 +33,7 @@ Validierung   -#--   ----   --x            |                                |  5
  
 ```
 
-Legende:  ---- = laufende Arbeit   # = Publikation veröffentlicht   x = Geplant
+Legende:  ---- = laufende Arbeit   # = Publikation veröffentlicht / Milestone erreicht x = Geplant
 
 
 ---
