@@ -13,18 +13,27 @@ Konventionelle ML-Modelle (z. B. CNNs/Autoencoder) stoßen bei **hochdimensional
 ---
 
 ## TRL-Pfad & Projektrahmen
+
 - **Laufzeit:** 01.01.2026–31.12.2027 (24 Monate)  
 - **TRL-Ziel:** **TRL 3 → TRL 5** (Laborvalidierung → technische Validierung in relevanter Umgebung)  
 - **Validierung:** Kooperation mit Gesundheitszentren (klinischer Evaluationspfad)  
-- **Ergebnisse:** Open-Source-Release, mind. 3 Peer-Reviewed Publikationen, kumulative Dissertation, Systemdemo
-            2026                                           2027
-            Q1     Q2     Q3     Q4     |     Q1     Q2     Q3     Q4
-            ----   ----   ----   ----    |     ----   ----   ----   ----
+- **Ergebnisse:** Open-Source-Release · ≥3 Peer-Reviewed Publikationen · kumulative Dissertation · Systemdemo  
 
-Paper 
- Publication #----#
 
-Dissertation -------------x
+```
+HyQCA-Health — Zeitachse 2026–2027
+
+              2026                                  2027
+              Q1     Q2     Q3     Q4     |     Q1     Q2     Q3     Q4
+              ----   ----   ----   ----    |     ----   ----   ----   ----
+
+Paper         ----         #      ----    |            #            #
+
+Dissertation  ----   ----   ----   ----    |     ----   ----   ----    x
+```
+
+Legende:  ---- = laufende Arbeit   # = Einreichung/Publikation   x = Disputation/Abschluss
+
 
 ---
 
