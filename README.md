@@ -17,6 +17,14 @@ Konventionelle ML-Modelle (z. B. CNNs/Autoencoder) stoßen bei **hochdimensional
 - **TRL-Ziel:** **TRL 3 → TRL 5** (Laborvalidierung → technische Validierung in relevanter Umgebung)  
 - **Validierung:** Kooperation mit Gesundheitszentren (klinischer Evaluationspfad)  
 - **Ergebnisse:** Open-Source-Release, mind. 3 Peer-Reviewed Publikationen, kumulative Dissertation, Systemdemo
+            2026                                           2027
+            Q1     Q2     Q3     Q4     |     Q1     Q2     Q3     Q4
+            ----   ----   ----   ----    |     ----   ----   ----   ----
+
+Paper 
+ Publication #----#
+
+Dissertation -------------x
 
 ---
 
