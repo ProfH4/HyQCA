@@ -32,7 +32,7 @@ Validierung   -#--   ----   --x   ----     |   ----   ----   ----   ----  |  50%
  
 ```
 
-Legende:  ---- = laufende Arbeit   # = Milestone erreicht x = Geplant
+Legende:  ---- = laufende Arbeit   # = Meilenstein erreicht x = Geplant
 
 
 ---
