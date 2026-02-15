@@ -19,21 +19,20 @@ Konventionelle ML-Modelle (z. B. CNNs/Autoencoder) stoßen bei **hochdimensional
 - **Validierung:** Kooperation mit Gesundheitszentren (klinischer Evaluationspfad)  
 - **Ergebnisse:** Open-Source-Release · ≥3 Peer-Reviewed Publikationen · kumulative Dissertation · Systemdemo  
 
-
 ```
 HyQCA-Health — Zeitachse 2026–2027
 
-              2026                                  2027                      % Zielerreichung to date
-              Q1     Q2     Q3     Q4      |     Q1     Q2     Q3     Q4
-              ----   ----   ----   ----    |     ----   ----   ----   ----  |
+              2026                             2027                      % Zielerreichung to date
+              Q1     Q2     Q3     Q4      |   Q1     Q2     Q3     Q4
+              ----   ----   ----   ----    |   ----   ----   ----   ----  |
 
-Paper         #-#-                         |                                |  66%
-Dissertation  ----   ----   --x            |                                |   0%
-Validierung   -#--   ----   --x            |                                |  50%
+Paper         #-#-#                        |                              |  66%
+Dissertation  ----   ----   --x            |                              |   0%
+Validierung   -#--   ----   --x   ----     |   ----   ----   ----   ----  |  50%
  
 ```
 
-Legende:  ---- = laufende Arbeit   # = Publikation veröffentlicht / Milestone erreicht x = Geplant
+Legende:  ---- = laufende Arbeit   # = Milestone erreicht x = Geplant
 
 
 ---
