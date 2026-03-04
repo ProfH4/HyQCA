@@ -26,14 +26,13 @@ HyQCA-Health — Zeitachse 2026–2027
               Q1     Q2     Q3     Q4      |   Q1     Q2     Q3     Q4
               ----   ----   ----   ----    |   ----   ----   ----   ----  |
 
-Paper         #-#-#                        |                              |  66%
+Paper         #-#-#                        |                              |  100%
 Dissertation  ----   ----   --x            |                              |   0%
-Validierung   -#--   ----   --x   ----     |   ----   ----   ----   ----  |  50%
+Validierung   -#--#  ----   ---   ----     |   ----   ----   ----   ----  |  100%
  
 ```
 
 Legende:  ---- = laufende Arbeit   # = Meilenstein erreicht x = Geplant
-
 
 ---
 
@@ -69,6 +68,8 @@ Wenn du dieses Projekt nutzt, zitiere bitte das Repository (und die zugehörigen
 ### 1. Villalba-Díez, J., Ordieres-Meré, J. Triangulated relativistic quantum computation: a curvature-modulated unification of quantum and relativistic computing. Quantum Stud.: Math. Found. 13, 2 (2026). https://doi.org/10.1007/s40509-025-00376-5
 
 ### 2. Villalba-Díez, J., González-Marcos, A. (2026) Relativistic triangle–curvature computing for federated HIV-1 protein-sequence monitoring. Sci Rep 16, 2957. https://doi.org/10.1038/s41598-025-32889-9
+
+### 3. Villalba-Díez, J., Ordieres-Meré, J. (2026) Standardized quantum transistor block enables differentiable learning on gait dynamics. Sci Rep. https://doi.org/10.1038/s41598-026-40424-7
 
 ---
 
