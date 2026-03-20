@@ -69,7 +69,7 @@ Wenn du dieses Projekt nutzt, zitiere bitte das Repository (und die zugehörigen
 
 ### 2. Villalba-Díez, J., González-Marcos, A. (2026) Relativistic triangle–curvature computing for federated HIV-1 protein-sequence monitoring. Sci Rep 16, 2957. https://doi.org/10.1038/s41598-025-32889-9
 
-### 3. Villalba-Díez, J., Ordieres-Meré, J. (2026) Standardized quantum transistor block enables differentiable learning on gait dynamics. Sci Rep. https://doi.org/10.1038/s41598-026-40424-7
+### 3. Villalba-Díez, J., Ordieres-Meré, J. (2026). Standardized quantum transistor block enables differentiable learning on gait dynamics. Sci Rep 16, 9506. https://doi.org/10.1038/s41598-026-40424-7
 
 ### 4. Villalba-Díez, J., González-Marcos, A., Losada-González, J.C., Ordeires-Meré, J. (2026) Fractal photonic crystals with controlled disorder for robust 3D-integrated on-chip quantum mode localization. Optical and Quantum Electronics 58, 166. https://doi.org/10.1007/s11082-026-08741-3
 
