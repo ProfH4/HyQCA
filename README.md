@@ -22,14 +22,14 @@ Konventionelle ML-Modelle (z. B. CNNs/Autoencoder) stoßen bei **hochdimensional
 ```
 HyQCA-Health — Zeitachse 2026–2027
 
-              2026                             2027                       % Zielerreichung
-                                                                            to date
-              Q1       Q2     Q3     Q4      |   Q1     Q2     Q3     Q4
-              ------   ----   ----   ----    |   ----   ----   ----   ----  |
+              2026                             2027                           % Zielerreichung
+                                                                                to date
+              Q1         Q2     Q3     Q4      |   Q1     Q2     Q3     Q4
+              ------     ----   ----   ----    |   ----   ----   ----   ----  |
 
-Paper         #-#-#-#                        |                              |  133%
-Dissertation  -------    ----   --x          |                              |   0%
-Validierung   -#--#--    ----   ---   ----   |   ----   ----   ----   ----  |  100%
+Paper         #-#-#-#                          |                              |  133%
+Dissertation  -------    ----   --x            |                              |   0%
+Validierung   -#--#--    ----   ---   ----     |   ----   ----   ----   ----  |  100%
  
 ```
 
