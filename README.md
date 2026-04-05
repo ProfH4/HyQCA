@@ -74,6 +74,8 @@ Wenn du dieses Projekt nutzt, zitiere bitte das Repository (und die zugehörigen
 
 ### 4. Villalba-Díez, J., González-Marcos, A., Losada-González, J.C., Ordeires-Meré, J. (2026) Fractal photonic crystals with controlled disorder for robust 3D-integrated on-chip quantum mode localization. Optical and Quantum Electronics 58, 166. https://doi.org/10.1007/s11082-026-08741-3
 
+### 5. Villalba-Díez, J., Nuber, C. & Ordieres-Meré, J. Curvature-coupled triangulated relativistic quantum computation: entanglement equilibrium, geometry registers, and discrete curvature-response relations. Quantum Stud.: Math. Found. 13, 21 (2026). https://doi.org/10.1007/s40509-026-00396-9
+
 ---
 
 ## Lizenz
