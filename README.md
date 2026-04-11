@@ -27,7 +27,7 @@ HyQCA-Health — Zeitachse 2026–2027
               Q1         Q2         Q3         Q4         |   Q1       Q2       Q3       Q4
               -------    -------    -------    --------   |   ------   ------   ------   ------  |
 
-Paper         #-#-#-#    #-#                              |                                      |  200 %
+Paper         #-#-#-#    #-#-#                            |                                      |  230 %
 Dissertation  -------    -------    -----x-               |                                      |    0 %
 Validierung   -#--#--    -------    -------    --------   |   ------   ------   ------   ------  |  100 %
  
@@ -77,6 +77,8 @@ Wenn du dieses Projekt nutzt, zitiere bitte das Repository (und die zugehörigen
 ### 5. Villalba-Díez, J., Nuber, C., Ordieres-Meré, J. (2026) Curvature-coupled triangulated relativistic quantum computation: entanglement equilibrium, geometry registers, and discrete curvature-response relations. *Quantum Studies: Mathematics Foundations* 13, 21. [https://doi.org/10.1007/s40509-026-00396-9](https://doi.org/10.1007/s40509-026-00396-9)
 
 ### 6. Villalba-Díez, J., González-Marcos, A., Losada-González, J.C., Ordieres-Meré, J. (2026) Squid–transmon quantum hardware simulation with deep learning for pancreatic radiotherapy image classification. Quantum Information Processing 25, 138. [https://doi.org/10.1007/s11128-026-05144-x](https://doi.org/10.1007/s11128-026-05144-x)
+
+### 7. Gish, C., Villalba-Diez, J. & Ordieres-Mere, J. A Brain-Inspired Model for Efficient Graph Learning in Human Cyber Physical Networks. Cogn Comput 18, 35 (2026). https://doi.org/10.1007/s12559-026-10574-x
 
 ---
 
