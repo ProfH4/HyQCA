@@ -27,7 +27,7 @@ HyQCA-Health — Zeitachse 2026–2027
               Q1         Q2         Q3         Q4         |   Q1       Q2       Q3       Q4
               -------    -------    -------    --------   |   ------   ------   ------   ------  |
 
-Paper         #-#-#-#    #-#-#                            |                                      |  233 %
+Paper         #-#-#-#    #-#-#-#                          |                                      |  266 %
 Dissertation  -------    -------    -----x-               |                                      |    0 %
 Validierung   -#--#--    -------    -------    --------   |   ------   ------   ------   ------  |  100 %
  
@@ -79,6 +79,8 @@ Wenn du dieses Projekt nutzt, zitiere bitte das Repository (und die zugehörigen
 ### 6. Villalba-Díez, J., González-Marcos, A., Losada-González, J.C., Ordieres-Meré, J. (2026) Squid–transmon quantum hardware simulation with deep learning for pancreatic radiotherapy image classification. Quantum Information Processing 25, 138. [https://doi.org/10.1007/s11128-026-05144-x](https://doi.org/10.1007/s11128-026-05144-x)
 
 ### 7. Gish, C., Villalba-Diez, J. & Ordieres-Mere, J. A Brain-Inspired Model for Efficient Graph Learning in Human Cyber Physical Networks. Cogn Comput 18, 35 (2026). https://doi.org/10.1007/s12559-026-10574-x
+
+### 8. Villalba-Díez, J., Losada-González, J.C. Exploiting quantum chaos diagnostics in QAOA for enhanced hybrid quantum classical deep learning classification. Sci Rep 16, 15744 (2026). https://doi.org/10.1038/s41598-026-51870-8
 
 ---
 
