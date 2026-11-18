@@ -84,6 +84,10 @@ Wenn du dieses Projekt nutzt, zitiere bitte das Repository (und die zugehörigen
 
 ### 9. Villalba-Díez, J., Bello-García, A. & Ordieres-Meré, J. Proton transport and polarization relaxation in $H_x$–NdNi $O_3$: literature-constrained reduced models and a recoverability diagnostic. Eur. Phys. J. B 99, 193 (2026). [https://doi.org/10.1140/epjb/s10051-026-01294-0](https://doi.org/10.1140/epjb/s10051-026-01294-0)
 
+## Dissertation
+
+### 1. „Quantum-Inspired Artificial Intelligence for Biological Sciences“ Universidad La Rioja 2026.12.04.
+
 ---
 
 ## Dissemination
