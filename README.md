@@ -82,6 +82,22 @@ Wenn du dieses Projekt nutzt, zitiere bitte das Repository (und die zugehörigen
 
 ### 8. Villalba-Díez, J., Losada-González, J.C. Exploiting quantum chaos diagnostics in QAOA for enhanced hybrid quantum classical deep learning classification. Sci Rep 16, 15744 (2026). https://doi.org/10.1038/s41598-026-51870-8
 
+### 9. Villalba-Díez, J., Bello-García, A. & Ordieres-Meré, J. Proton transport and polarization relaxation in $H_x$–NdNi $O_3$: literature-constrained reduced models and a recoverability diagnostic. Eur. Phys. J. B 99, 193 (2026). [https://doi.org/10.1140/epjb/s10051-026-01294-0](https://doi.org/10.1140/epjb/s10051-026-01294-0)
+
+---
+
+## Dissemination
+
+### Open AccessQuantum Computing und Kryptographie Vorlesung. Master Wirtschaftsinformatik. [Youtube](https://youtu.be/twCE-fi1CpU) und [GitHub](https://github.com/ProfH4/Lecture_Notes/tree/main/20262027%20Wintersemester/WIM%20285542%20Quantum%20Computing%20und%20Kryptographie). [Cosmos DSS](https://www.cosmos-hn.de/backstage/hochschule-heilbronn-mastervorlesung-zu-quantum-computing-fuer-alle-geoeffnet/)
+
+### Veröffentlichuungen mit Studierenden
+
+#### 1. Buss, Andreas, Henrik Oppenländer, Jannis Lang, and Javier Villalba-Diez. “Klassifikation von Netzwerktopologien mithilfe von Deep Learning in Bezug auf IIoT.” In Anwendung Informationsmanagement, vol. 5, edited by Helmut Beckmann, 72–82. Schriftenreihe Wirtschaftsinformatik. Stuttgart: Steinbeis-Edition, 2026.
+
+#### 2. Diefenbacher, Alexander, Robin Misia, and Javier Villalba-Diez. “Quantum AI – Quantum-inspirierte Stimmerkennung.” In Anwendung Informationsmanagement, vol. 5, edited by Helmut Beckmann, 89–97. Schriftenreihe Wirtschaftsinformatik. Stuttgart: Steinbeis-Edition, 2026.
+
+#### 3. Freese, Isabella, Marcel Koch, Seline Löwe, and Javier Villalba-Diez. “Optimizing Industrial Production Processes Through AI-Based Anomaly Detection – An Investigation of Selected AI Methods.” In Anwendung Informationsmanagement, vol. 5, edited by Helmut Beckmann, 98–109. Schriftenreihe Wirtschaftsinformatik. Stuttgart: Steinbeis-Edition, 2026.
+
 ---
 
 ## Lizenz
